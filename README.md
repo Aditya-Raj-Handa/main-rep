@@ -1,6 +1,6 @@
 - Hi, I’m @Aditya-Raj-Handa
 - I’m interested in Python projects and Full Stack Web Development
-- I’m currently learning SRM University
+- I’m currently learning at SRM University
 - Contact me via mail - adityaraj.handa03@gmail.com
 
 <!---
